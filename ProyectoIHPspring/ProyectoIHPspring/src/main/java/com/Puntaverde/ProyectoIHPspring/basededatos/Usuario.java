@@ -1,4 +1,4 @@
-package ProyectoIHPspring.ProyectoIHPspring.src.basededatos;
+package package com.Puntaverde.ProyectoIHPspring;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
