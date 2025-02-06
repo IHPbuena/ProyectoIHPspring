@@ -1,9 +1,11 @@
-package package com.Puntaverde.ProyectoIHPspring;
+package com.Puntaverde.ProyectoIHPspring;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+
 
 @Entity  // Anotación para indicar que esta clase es una entidad JPA
 public class Usuario {
